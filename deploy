@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/sbin/ip addr show eth0
